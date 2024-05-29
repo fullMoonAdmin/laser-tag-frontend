@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@100..700&display=swap');
+
+:root {
+    --hellOrange: #FF4000;
+    --hellWhite: #FFF6F0;
+    --hellDark: #281812;
+    --hellRed: #A60000;
+    --hellBlue: #0086FF;
+    --hellGreen: #00A561;
+    --hellPink: #FF0059;
+
+}
+body {
+    font-family: "M PLUS Code Latin", monospace;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: var(--hellDark);
+   
+}
